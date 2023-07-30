@@ -20,10 +20,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #pragma once
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0x04D8
+#define VENDOR_ID       0x6B6C
 #define PRODUCT_ID      0xEB2D
-#define DEVICE_VER      0x0100
-#define MANUFACTURER    liliums
+#define DEVICE_VER      0x0102
+#define MANUFACTURER    Klathmon
 #define PRODUCT         Lily58
 
 /* key matrix size */

@@ -21,10 +21,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #pragma once
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0x7983
+#define VENDOR_ID       0x6B6C
 #define PRODUCT_ID      0x4C4C // "LL"
-#define DEVICE_VER      0x0100
-#define MANUFACTURER    Keycapsss
+#define DEVICE_VER      0x0102
+#define MANUFACTURER    Klathmon
 #define PRODUCT         Lily58L
 
 /* key matrix size */
@@ -49,5 +49,3 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define ENCODERS_PAD_A { F4 }
 #define ENCODERS_PAD_B { F5 }
-#define ENCODERS_PAD_A_RIGHT { F5 }
-#define ENCODERS_PAD_B_RIGHT { F4 }
